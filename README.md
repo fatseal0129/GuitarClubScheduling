@@ -5,7 +5,7 @@
 ### Start
     python GuitarAttend.py
 
-#Changelog
+# Changelog
 
 2021/7/10 - v0.1 
 - 主程式釋出
